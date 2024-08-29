@@ -2,10 +2,10 @@
 ### Olá! Eu sou o Tobias 👋
 
 ## GitHub statistics:
-![Tobias GitHub stats](https://github-readme-stats.vercel.app/api?username=Tobias-Lopes&theme=blue-green)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tobias-Lopes&theme=blue-green)
 
 ## Most used stacks:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobias-Lopes&theme=blue-green)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobias-Lopes&theme=blue-green)
 ## Tecnologias que já tive contato 💻
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
