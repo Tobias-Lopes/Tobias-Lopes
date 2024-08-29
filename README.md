@@ -1,8 +1,5 @@
 
-### Olá! Eu sou o Tobias Lopes 👋
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tobias-n-lopes-219b9b2a2)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tobiaslps)
+### Olá! Eu sou o Tobias 👋
 
 ## GitHub statistics:
 ![Tobias GitHub stats](https://github-readme-stats.vercel.app/api?username=Tobias-Lopes&theme=blue-green)
@@ -22,3 +19,9 @@
 #### Graduando em Tecnologia da Informação pela Universidade Federal do Rio Grande do Norte desde 2024.
 #### tobias.lopes.712@ufrn.edu.br
 
+<p align="center">
+<a href="https://www.linkedin.com/in/tobias-n-lopes-219b9b2a2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tobiaslopes" height="20" width="20" /></a>
+<a href="https://instagram.com/tobiaslps" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tobiaslopes" height="20" width="20" /></a>
+</p>
+
+⭐️ From [Tobias Lopes](https://github.com/Tobias-Lopes)
