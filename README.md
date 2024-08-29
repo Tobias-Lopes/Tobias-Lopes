@@ -8,7 +8,7 @@
 ![Tobias GitHub stats](https://github-readme-stats.vercel.app/api?username=Tobias-Lopes&show_icons=true&theme=dark)
 
 ## Most used stacks:
-![Tobias Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobias-Lopes&layout=compact&theme=radical&title_color=8E2DE2&text_color=fff&hide_border=true&card_width=445)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobias-Lopes&layout=compact&theme=radical&title_color=8E2DE2&text_color=fff&hide_border=true&card_width=445)
 ## Tecnologias que já tive contato 💻
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
