@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tobiaslps)
 
 ## GitHub statistics:
-![Tobias GitHub stats](https://github-readme-stats.vercel.app/api?username=Tobias-Lopes{username}&theme=blue-green)
+![Tobias GitHub stats](https://github-readme-stats.vercel.app/api?username=Tobias-Lopes&theme=blue-green)
 
 ## Most used stacks:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobias-Lopes&layout=compact&theme=radical&title_color=8E2DE2&text_color=fff&hide_border=true&card_width=445)
