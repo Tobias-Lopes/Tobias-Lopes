@@ -2,7 +2,12 @@
 
 ###
 
-<p align="left">- I am currently pursuing a Bachelor's degree in Information Technology at UFRN.<br>- I am passionate about technology and always eager to learn new things.<br>- Email: tobias.lopes.712@ufrn.edu.br<br><br>Welcome to my profile!</p>
+
+- I am currently pursuing a Bachelor's degree in Information Technology at UFRN.
+- I am passionate about technology and always eager to learn new things.
+- Email: tobias.lopes.712@ufrn.edu.br
+
+Welcome to my profile!
 
 ###
 
