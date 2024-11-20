@@ -21,7 +21,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tobias-n-lopes-219b9b2a2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tobiaslopes" height="20" width="20" /></a>
-<a href="https://instagram.com/tobiaslps" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tobiaslopes" height="20" width="20" /></a>
+<a href="https://instagram.com/tobias.lopess" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tobiaslopes" height="20" width="20" /></a>
 </p>
 
 ⭐️ From [Tobias Lopes](https://github.com/Tobias-Lopes)
