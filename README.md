@@ -81,7 +81,7 @@
 - System Settings
 - Technical computer maintenance
 
-### Full Stack Developer (Internship)| [Solução Tributos](https://site.sigest.online)
+### Full Stack Developer| [Solução Tributos](https://site.sigest.online)
 - Development of integrated tax management solutions
 - Scalable system architecture
 - Government systems integration
